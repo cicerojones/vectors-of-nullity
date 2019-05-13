@@ -13,4 +13,6 @@ But my hands hurts. You know the old saying about broken glass...
 
 By which we mean, slendro pelog 1, a la Don Cherry
 
-and take your mon-ay
+and take your mon-ay.
+
+All I want to do is.
