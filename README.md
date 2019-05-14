@@ -16,3 +16,5 @@ By which we mean, slendro pelog 1, a la Don Cherry
 and take your mon-ay.
 
 All I want to do is.
+
+Correction: All I want to do is...and...
