@@ -7,3 +7,7 @@
 
 # and did those teats 
 # in ancient times
+
+import os
+
+os.listdir('.')
