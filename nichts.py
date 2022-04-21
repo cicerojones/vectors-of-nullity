@@ -9,3 +9,5 @@
 # in ancient times
 
 import os
+
+os.listdir('.')
